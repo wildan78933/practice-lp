@@ -11,7 +11,7 @@ import {FaChalkboardTeacher} from 'react-icons/fa'
 const Categories = () => {
   return (
     <div className='w-full bg-[#F0FBF7] py-24'>
-    <div className='md:max-w-[1480px] max-w-[600px] m-auto '>
+    <div className='md:max-w-[1480px] m-auto max-w-[600px]  px-4 md:px-0'>
             
             <h1 className='md:leading-[72px] text-3xl font-bold'>Most <span className='text-[#20B486]'>Popular Categories</span>
             </h1>
